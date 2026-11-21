@@ -52,3 +52,16 @@ Quick Sort uses the last array element as its pivot. This is intentionally simpl
 
 ## GitHub
 Create a new public GitHub repository for Assignment 3 and paste its URL into the report before submission.
+## GitHub Repository
+
+This project is publicly available on GitHub:
+
+https://github.com/asdfghjklzvm28-sys/Assignment-3-Sorting-Algorithms
+
+## Project Files
+
+- main.cpp
+- assignment3_results.csv
+- assignment3_average_results.csv
+- README.md
+- Assignment 3 Final Report (PDF)

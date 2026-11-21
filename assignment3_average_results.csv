@@ -1,0 +1,17 @@
+Algorithm,InputCase,N,AverageTime_us,Comparisons,Swaps
+Bubble Sort,Reverse_Sorted,5,0.041159400000000006,10.0,10.0
+Bubble Sort,Reverse_Sorted,100,7.2521364,4950.0,4950.0
+Bubble Sort,Sorted,5,0.02528596666666667,4.0,0.0
+Bubble Sort,Sorted,100,0.08614573333333332,99.0,0.0
+Merge Sort,Reverse_Sorted,5,0.0630072,5.0,0.0
+Merge Sort,Reverse_Sorted,100,1.2648831666666667,316.0,0.0
+Merge Sort,Sorted,5,0.057724,7.0,0.0
+Merge Sort,Sorted,100,1.1194543333333333,356.0,0.0
+Quick Sort,Reverse_Sorted,5,0.034671733333333336,10.0,2.0
+Quick Sort,Reverse_Sorted,100,4.621637466666667,4950.0,50.0
+Quick Sort,Sorted,5,0.031501966666666666,10.0,0.0
+Quick Sort,Sorted,100,4.451988966666666,4950.0,0.0
+Selection Sort,Reverse_Sorted,5,0.0383788,10.0,2.0
+Selection Sort,Reverse_Sorted,100,9.322088266666666,4950.0,50.0
+Selection Sort,Sorted,5,0.032990700000000005,10.0,0.0
+Selection Sort,Sorted,100,6.6460569000000005,4950.0,0.0
